@@ -4,7 +4,8 @@
   "main": "index.js",
   "scripts": {
     "serve": "browser-sync start -s -f \".\"",
-    "test": "jest"
+    "test": "jest",
+    "coverage": "jest --coverage --collectCoverageFrom \"src/js/**/*.js\""
   },
   "babel": {
     "presets": [
