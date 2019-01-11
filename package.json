@@ -23,7 +23,7 @@
   },
   "dependencies": {},
   "directories": {
-    "test": "test"
+    "src/test": "src/test"
   },
   "description": ""
 }
